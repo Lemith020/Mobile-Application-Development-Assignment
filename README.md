@@ -24,3 +24,11 @@ for a mobile application development assignment.
 ### Registration Successful
 
 <img src="images/registration-success.png" alt="Registration success screen" width="300">
+
+## Technologies Used
+
+- Kotlin
+- Jetpack Compose
+- Material Design 3
+- Android Studio
+- Gradle
