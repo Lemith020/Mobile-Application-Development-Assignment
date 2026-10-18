@@ -14,3 +14,9 @@ for a mobile application development assignment.
 - Submit button enabled when all fields are filled.
 - Success screen displayed after submission.
 - Back to form button.
+
+## Screenshots
+
+### Registration Form
+
+<img src="images/registration-form.png" alt="Registration form" width="300">
