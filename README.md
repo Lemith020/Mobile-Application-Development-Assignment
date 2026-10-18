@@ -23,7 +23,7 @@ for a mobile application development assignment.
 
 ### Registration Successful
 
-<img src="images/submit_succesfull_page.png" alt="Registration success screen" width="300">
+<img src="app/images/submit_succesfull_page.png" alt="Registration success screen" width="300">
 
 ## Technologies Used
 
