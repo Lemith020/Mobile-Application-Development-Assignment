@@ -20,3 +20,7 @@ for a mobile application development assignment.
 ### Registration Form
 
 <img src="images/registration-form.png" alt="Registration form" width="300">
+
+### Registration Successful
+
+<img src="images/registration-success.png" alt="Registration success screen" width="300">
