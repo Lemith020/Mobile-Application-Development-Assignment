@@ -32,3 +32,11 @@ for a mobile application development assignment.
 - Material Design 3
 - Android Studio
 - Gradle
+
+## Run the Project
+
+1. Clone this repository.
+2. Open the project in Android Studio.
+3. Allow Gradle Sync to complete.
+4. Select an Android emulator or connected device.
+5. Click Run.
