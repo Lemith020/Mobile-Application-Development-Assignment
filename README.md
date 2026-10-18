@@ -19,11 +19,11 @@ for a mobile application development assignment.
 
 ### Registration Form
 
-<img src="images/registration-form.png" alt="Registration form" width="300">
+<img src="images/registration_form.png" alt="Registration form" width="300">
 
 ### Registration Successful
 
-<img src="images/registration-success.png" alt="Registration success screen" width="300">
+<img src="images/submit_succesfull_page.png" alt="Registration success screen" width="300">
 
 ## Technologies Used
 
