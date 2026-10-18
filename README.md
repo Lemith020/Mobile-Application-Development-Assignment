@@ -40,3 +40,8 @@ for a mobile application development assignment.
 3. Allow Gradle Sync to complete.
 4. Select an Android emulator or connected device.
 5. Click Run.
+
+## Note
+
+This application demonstrates a registration UI and screen navigation.
+Registration details are not saved to a database.
